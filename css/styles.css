@@ -20,3 +20,7 @@
     border-color: #66BFBF;
     width: 7%;
   }
+
+  a:hover {
+    color: orange;
+  };
