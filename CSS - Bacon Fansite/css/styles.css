@@ -1,0 +1,27 @@
+/* ----------------- TAG rules ----------------- */
+
+h1 {
+  color: red;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/* ----------------- Class rules ----------------- */
+
+.veggies {
+  background-color: red;
+}
+
+.meat {
+  background-color: green;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+#heading {
+  color: blue;
+}
